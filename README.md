@@ -25,5 +25,4 @@ O vídeo resultante é uma síntese impressionante do potencial das IAs Generati
 ## Reflexão 
 
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
-
-[![Assista ao vídeo](https://www.youtube.com/shorts/tZJpbAumpco)]
+![Assista o vídeo aqui](https://www.youtube.com/shorts/tZJpbAumpco)
