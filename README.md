@@ -26,9 +26,8 @@ O vídeo resultante é uma síntese impressionante do potencial das IAs Generati
 
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
 
-![Clique aqui para baixar](https://github.com/lislovelly/trilha-IAGenerativa/blob/main/video/Khaleese.mp4)
 
-Clique na imagem e assista o vídeo no YouTube
+Clique e assista o vídeo no YouTube
 [![Assista o vídeo aqui](https://img.youtube.com/vi/MZqnneIaYB4/maxresdefault.jpg)](https://www.youtube.com/shorts/MZqnneIaYB4)
 
 
