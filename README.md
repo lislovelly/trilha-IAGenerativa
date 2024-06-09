@@ -22,7 +22,7 @@ Este projeto foi uma experiência incrível em contar histórias visuais, utiliz
 
 Veja meu vídeo do YouTube Shorts [aqui](https://www.youtube.com/shorts/tZJpbAumpco).
 
-!(gif)[https://github.com/lislovelly/trilha-IAGenerativa/blob/main/khaleese.gif]
+
 
 
 
