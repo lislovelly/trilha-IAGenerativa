@@ -1,6 +1,6 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! ;)
 
-📒 ## Descrição
+## Descrição
 
 Este vídeo de 1 minuto oferece uma visão rápida e envolvente do potencial e das aplicações das IAs Generativas no cotidiano. Com o avatar da personagem Daenerys Targaryen, da saga Game of Thrones, ela se apresenta com seu nome completo.
 
