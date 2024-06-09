@@ -4,9 +4,13 @@
 Este vídeo de 1 minuto oferece uma visão rápida e envolvente do potencial e das aplicações das IAs Generativas no cotidiano. Com o avatar da personagem Daenerys Targaryen, da saga Game of Thrones, ela se apresenta com seu nome completo. 
 
 ## 🤖 Tecnologias Utilizadas
+
 IA Generativa ChatGPT: Utilizada para roteirização e revisão;
+
 IA Generativa D-ID: Responsável pela criação do avatar virtual;
+
 Clipchamp.com: Utilizado para gerar a voz;
+
 SpeechText.AI: Empregado para capturar e transcrever o áudio.
 
 ## 🧐 Processo de Criação Aperfeiçoado
